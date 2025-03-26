@@ -1,0 +1,6 @@
+@ABCNewsAPI_HostAddress = http://localhost:5004
+
+GET {{ABCNewsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S+GBISraPNqad+BXARcERGS+JjVdRjihxirf8wivZ3s=",
+  "Source": "ABCNewsAPI",
+  "BasePath": "_content/ABCNewsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

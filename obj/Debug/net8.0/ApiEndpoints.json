@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ABCNewsAPI.Controllers.ApiKeyController",
+    "Method": "AddApiKey",
+    "RelativePath": "api/ApiKey/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apiKey",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ABCNewsAPI.Controllers.NoticiasController",
+    "Method": "Consulta",
+    "RelativePath": "Noticias/consulta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "q",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
