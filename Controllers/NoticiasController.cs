@@ -42,7 +42,6 @@ namespace ABCNewsAPI.Controllers
                         }
                     }
                 }
-
                 var acceptHeader = Request.Headers["Accept"].ToString().ToLower();
 
                 return acceptHeader switch
