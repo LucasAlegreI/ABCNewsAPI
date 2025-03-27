@@ -12,6 +12,8 @@
           "Microsoft.EntityFrameworkCore": "9.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.3",
+          "Selenium.WebDriver": "4.30.0",
+          "Selenium.WebDriver.MSEdgeDriver": "134.0.3124.72",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -762,6 +764,15 @@
           }
         }
       },
+      "Selenium.WebDriver/4.30.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.MSEdgeDriver/134.0.3124.72": {},
       "Swashbuckle.AspNetCore/6.6.2": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -1438,6 +1449,20 @@
       "sha512": "sha512-YqueG52R/Xej4VVbKuRIodjiAhV0HR/XVbLbNrJhCZnzjnSjgMJ/dCdV0akQQxavX6hp/LC6rqLGLcXeQYU7XA==",
       "path": "mono.texttemplating/3.0.0",
       "hashPath": "mono.texttemplating.3.0.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.30.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-POEESh6f408SNst9kT+mf4g9zVahIWXjo+/8qkjUt8dNRllD+am2Fdj30j5b54kpRIx5Nz2b08AREYvaOyQQMA==",
+      "path": "selenium.webdriver/4.30.0",
+      "hashPath": "selenium.webdriver.4.30.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.MSEdgeDriver/134.0.3124.72": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Z7Ukt0+gbpS3JkpHc8vhwNGP96LvJWw2YrTHRBPUuvFK7qdTBmcGfvYao04Xm9Lam/rEi1iEidRCIkB2HeTHw==",
+      "path": "selenium.webdriver.msedgedriver/134.0.3124.72",
+      "hashPath": "selenium.webdriver.msedgedriver.134.0.3124.72.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.6.2": {
       "type": "package",

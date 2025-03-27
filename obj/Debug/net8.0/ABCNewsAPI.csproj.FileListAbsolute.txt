@@ -172,3 +172,7 @@ C:\Users\SoyPa\source\repos\ABCNewsAPI\ABCNewsAPI\bin\Debug\net8.0\runtimes\brow
 C:\Users\SoyPa\source\repos\ABCNewsAPI\ABCNewsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\SoyPa\source\repos\ABCNewsAPI\ABCNewsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\SoyPa\source\repos\ABCNewsAPI\ABCNewsAPI\obj\Debug\net8.0\ABCNewsAPI.sourcelink.json
+C:\Users\SoyPa\source\repos\ABCNewsAPI\ABCNewsAPI\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\SoyPa\source\repos\ABCNewsAPI\ABCNewsAPI\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\SoyPa\source\repos\ABCNewsAPI\ABCNewsAPI\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\SoyPa\source\repos\ABCNewsAPI\ABCNewsAPI\bin\Debug\net8.0\WebDriver.dll

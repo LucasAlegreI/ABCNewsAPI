@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3LPlhC9YhiI=",
+  "dgSpecHash": "050Haq4EbYQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\SoyPa\\source\\repos\\ABCNewsAPI\\ABCNewsAPI\\ABCNewsAPI.csproj",
   "expectedPackageFiles": [
@@ -52,6 +52,8 @@
     "C:\\Users\\SoyPa\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\SoyPa\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\SoyPa\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\SoyPa\\.nuget\\packages\\selenium.webdriver\\4.30.0\\selenium.webdriver.4.30.0.nupkg.sha512",
+    "C:\\Users\\SoyPa\\.nuget\\packages\\selenium.webdriver.msedgedriver\\134.0.3124.72\\selenium.webdriver.msedgedriver.134.0.3124.72.nupkg.sha512",
     "C:\\Users\\SoyPa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\SoyPa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\SoyPa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",

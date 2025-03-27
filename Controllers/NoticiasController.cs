@@ -4,7 +4,6 @@ using ABCNewsAPI.Models;
 using System.Text.Json;
 using System.Xml.Serialization;
 using System.Text;
-using System.IO;
 
 namespace ABCNewsAPI.Controllers
 {
