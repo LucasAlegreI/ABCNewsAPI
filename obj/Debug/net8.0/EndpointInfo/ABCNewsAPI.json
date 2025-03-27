@@ -48,6 +48,14 @@
             "schema": {
               "type": "string"
             }
+          },
+          {
+            "name": "f",
+            "in": "query",
+            "schema": {
+              "type": "boolean",
+              "default": false
+            }
           }
         ],
         "responses": {

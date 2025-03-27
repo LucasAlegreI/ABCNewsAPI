@@ -1,7 +1,4 @@
 ﻿using HtmlAgilityPack;
-using System.Net.Http;
-using System.Threading.Tasks;
-using System.Collections.Generic;
 using ABCNewsAPI.Models;
 
 namespace ABCNewsAPI.Services
